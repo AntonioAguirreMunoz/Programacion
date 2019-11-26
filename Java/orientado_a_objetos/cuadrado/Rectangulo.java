@@ -46,9 +46,9 @@ public class Rectangulo {
 		return 2 * ancho + 2 * alto;
 	}
 	
-	public int getHipotenusa(int ancho, int alto) {	
+	public double getHipotenusa(int ancho, int alto) {	
 		int hyp = ancho * ancho + alto * alto;
-		return sqrt(hyp);
+		return Math.sqrt(hyp);
 	}
 }
 
