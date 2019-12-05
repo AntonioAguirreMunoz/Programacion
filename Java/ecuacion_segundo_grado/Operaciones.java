@@ -9,7 +9,7 @@ import java.lang.Math;
 public class Operaciones {
 
 	/**
-	 * Mérodo para devolver el numerador positivo
+	 * Método para devolver el numerador positivo
 	 * @return Valor del numeradorPositivo
 	 */
 	  
