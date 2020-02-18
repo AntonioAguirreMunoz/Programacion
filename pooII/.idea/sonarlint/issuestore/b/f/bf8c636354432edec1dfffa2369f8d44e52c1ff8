@@ -1,0 +1,21 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸Ú²şÿÿÿÿ8º¦şïƒ.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Üÿ¥¿8Áì„ğƒ.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š¢µ8·†úïƒ.
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Š¢µ8ˆÓúïƒ.
+rsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(èÕÇ¾şÿÿÿÿ8²òƒğƒ.
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¯«äâ8¢Ãˆğƒ.
+rsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¹ÎÏ­ıÿÿÿÿ8Öœûïƒ.
+Fsquid:S3457"%String contains no format specifiers.(¹ÎÏ­ıÿÿÿÿ8›ñôïƒ.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯«äâ8Æ•‡ğƒ.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹ÎÏ­ıÿÿÿÿ8›ñôïƒ.
+Fsquid:S3457"%String contains no format specifiers.(¸Ú²şÿÿÿÿ8º¦şïƒ.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(èÕÇ¾şÿÿÿÿ8·ƒ‚ğƒ.
+rsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¸Ú²şÿÿÿÿ8º¦şïƒ.
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Üÿ¥¿8™®…ğƒ.

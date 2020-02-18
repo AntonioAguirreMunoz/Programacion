@@ -1,0 +1,17 @@
+
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯§åí
+ksquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÓüıÉşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÓüıÉşÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(êËè‘
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ú¬®ÿıÿÿÿÿ
+ksquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‘ÛÌ¯ûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘ÛÌ¯ûÿÿÿÿ
+fsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÿÜÔ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÜÔ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø–Ûí

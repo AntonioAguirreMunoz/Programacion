@@ -1,0 +1,9 @@
+
+Psquid:S1854"6Remove this useless assignment to local variable "sc".(ÿÞÀˆùÿÿÿÿ
+Asquid:S1481"'Remove this unused "sc" local variable.(ÿÞÀˆùÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ¤Â
+_squid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÿÞÀˆùÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(›Þµœ
